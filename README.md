@@ -75,7 +75,7 @@ Below are the screenshots of the smart contract (developed in Solidity), which h
 <img src="Execution_Results/6_5_eth_accountOne.png" alt="drawing" width="400"/>
 
 ### Test withdrawal functionality - withdraw 10 ether into `accountTwo`
-<img src="Images/ganache_transactions.png" alt="drawing" width="700"/>
+<img src="Execution_Results/7_10_eth_accountTwo.png" alt="drawing" width="400"/>
 
 ## Sources
 The following sources were consulted in the completion of this project. 
