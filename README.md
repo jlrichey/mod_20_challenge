@@ -12,11 +12,6 @@ The smart contract was developed using the following language and development en
 * [Solidity](https://soliditylang.org/): programming language designed for developing smart contracts that run on Ethereum
 * [Remix](https://remix.ethereum.org/): a native IDE for Web3 Development and deployment of smart contracts
 
-## Libraries and Dependencies
-
-The [notebook](machine_learning_trading_bot.ipynb) loads the following libraries and dependencies.
-
-
 ## Installation
 Follow the link to [Remix](https://remix.ethereum.org/) and use the `upload` function to load the [`joint_savings.sol`](joint_savings.sol) file. Compile and Deploy the file. 
 
