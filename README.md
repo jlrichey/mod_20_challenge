@@ -64,19 +64,24 @@ Below are the screenshots of the smart contract (developed in Solidity), which h
 <img src="Execution_Results/2b_setAccounts.png" alt="drawing" width="700"/>
 
 ### Test Transaction 1 - send 1 ether as wei
-<img src="Execution_Results/3_1_eth_as_wei.png" alt="drawing" width="400"/>
+<img src="Execution_Results/3_1_eth_as_wei.png" alt="drawing" width="500"/>
+<img src="Execution_Results/3b_1_eth_as_wei.png" alt="drawing" width="700"/>
 
 ### Test Transaction 2 - send 10 ether as wei
-<img src="Execution_Results/4_10_eth_as_wei.png" alt="drawing" width="400"/>
+<img src="Execution_Results/4_10_eth_as_wei.png" alt="drawing" width="500"/>
+<img src="Execution_Results/4b_10_eth_as_wei.png" alt="drawing" width="700"/>
 
 ### Test Transaction 3 - send 5 ether
-<img src="Execution_Results/5_5_eth.png" alt="drawing" width="400"/>
+<img src="Execution_Results/5_5_eth.png" alt="drawing" width="500"/>
+<img src="Execution_Results/5b_5_eth.png" alt="drawing" width="700"/>
 
 ### Test withdrawal functionality - withdraw 5 ether into `accountOne`
-<img src="Execution_Results/6_5_eth_accountOne.png" alt="drawing" width="400"/>
+<img src="Execution_Results/6_5_eth_accountOne.png" alt="drawing" width="500"/>
+<img src="Execution_Results/6b_5_eth_accountOne.png" alt="drawing" width="700"/>
 
 ### Test withdrawal functionality - withdraw 10 ether into `accountTwo`
-<img src="Execution_Results/7_10_eth_accountTwo.png" alt="drawing" width="400"/>
+<img src="Execution_Results/7_10_eth_accountTwo.png" alt="drawing" width="500"/>
+<img src="Execution_Results/7b_10_eth_accountTwo.png" alt="drawing" width="700"/>
 
 ## Sources
 The following sources were consulted in the completion of this project. 
