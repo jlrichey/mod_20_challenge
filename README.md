@@ -62,6 +62,14 @@ Below are the screenshots of the smart contract (developed in Solidity), which h
 ### Using the `setAccounts` function to define the authorized Ethereum addresses
 <img src="Execution_Results/2_setAccounts.png" alt="drawing" width="400"/>
 
+
+
+| Plot            | Classification Report            |
+|--------------------|--------------------|
+| <img src="Execution_Results/2_setAccounts.png" alt="drawing" width="400"/> | <img src="Execution_Results/2_setAccounts.png" alt="drawing" width="400"/> |
+
+
+
 ### Test Transaction 1 - send 1 ether as wei
 <img src="Execution_Results/3_1_eth_as_wei.png" alt="drawing" width="400"/>
 
