@@ -4,7 +4,7 @@
 ## Overview
 For this project I assume the role a smart contract developer, creating Ethereum-compatible blockchain instruments that connect financial institutions. 
 
-The goal of the challenge is to automate the creation of joint savings account by creating a Solidity smart contract that accepts two user addresses that can deposit and withdraw funds from the account using ether management functions in accordance with the financial institution's requirements. 
+The goal of the challenge is to automate the creation of a joint savings account by creating a Solidity smart contract that accepts two user addresses that can deposit and withdraw funds from the account using ether management functions in accordance with the financial institution's requirements. 
 
 
 
