@@ -69,7 +69,7 @@ Below are the screenshots of the smart contract (developed in Solidity), which h
 <img src="Execution_Results/4_10_eth_as_wei.png" alt="drawing" width="400"/>
 
 ### Test Transaction 3 - send 5 ether
-<img src="Images/ganache_after.png" alt="drawing" width="700"/>
+<img src="Execution_Results/5_5_eth.png" alt="drawing" width="400"/>
 
 ### Test withdrawal functionality - withdraw 5 ether into `accountOne`
 <img src="Images/ganache_after_zoomed.png" alt="drawing" width="700"/>
