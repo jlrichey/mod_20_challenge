@@ -57,16 +57,16 @@ streamlit run krypto_jobs.py
 Below are the screenshots of the smart contract (developed in Solidity), which has been compiled and deployed in the Remix online development environment.
 
 ### Contract Deployed
-<img src="Execution_Results/1_contract_deployed.png" alt="drawing" width="400"/>
+<img src="Execution_Results/1_contract_deployed.png" alt="drawing" width="300"/>
 
 ### Contract Deposit (50 Ether)
-<img src="Execution_Results/2_deposit.png" alt="drawing" width="400"/>
+<img src="Execution_Results/2_deposit.png" alt="drawing" width="300"/>
 
 ### Using the `setAccounts` function to define the authorized Ethereum addresses
-<img src="Execution_Results/3_setAccounts.png" alt="drawing" width="700"/>
+<img src="Execution_Results/3_setAccounts.png" alt="drawing" width="300"/>
 
 ### Test Transaction 1 - send 1 ether as wei
-<img src="Images/ganache_before.png" alt="drawing" width="700"/>
+<img src="Execution_Results/4_1_eth_as_wei.png" alt="drawing" width="300"/>
 
 ### Test Transaction 2 - send 10 ether as wei
 <img src="Images/sidebar_complete1.png" alt="drawing" width="600"/>
