@@ -64,9 +64,9 @@ Below are the screenshots of the smart contract (developed in Solidity), which h
 
 
 
-| Plot            | Classification Report            |
+
 |--------------------|--------------------|
-| <img src="Execution_Results/2_setAccounts.png" alt="drawing" width="400"/> | <img src="Execution_Results/2_setAccounts.png" alt="drawing" width="400"/> |
+| <img src="Execution_Results/2_setAccounts.png" alt="drawing" width="400"/> | <img src="Execution_Results/2b_setAccounts.png" alt="drawing" width="400"/> |
 
 
 
